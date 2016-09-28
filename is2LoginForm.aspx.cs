@@ -40,7 +40,7 @@ namespace is2WebApplication
 		protected System.Web.UI.WebControls.HyperLink hl戻る;
 		protected System.Web.UI.WebControls.Label Label5;
 		protected System.Web.UI.WebControls.Image Image1;
-		protected System.Web.UI.HtmlControls.HtmlForm Form;
+        protected System.Web.UI.HtmlControls.HtmlForm Form;
 	
 		// Ｗｅｂサービス変数
 		protected static is2init.Service1  sv_is2init  = null;
